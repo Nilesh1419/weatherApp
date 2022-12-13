@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.span1 {
+  margin: 20px;
+  padding: 20px;
+  border: 1px black solid;
+}
